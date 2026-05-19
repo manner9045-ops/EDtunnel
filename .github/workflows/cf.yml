@@ -1,4 +1,4 @@
-Name: ⛅ CF Worker
+name: ⛅ CF Worker
 on:
   workflow_dispatch:
     inputs:
